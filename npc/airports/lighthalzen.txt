@@ -25,12 +25,12 @@ lhz_airport,143,43,5	script	Airport Staff#lhz_air1a::lhz_airport1	4_F_01,{
 		if (select("Yes:No") == 1) {
 			if (countitem(7311) > 0) {
 				delitem 7311,1; //Free_Flying_Ship_Ticket
-				warp "lhz_airport",148,51;
+				warp warp "airplane",244,63;
 				end;
 			}
 			if (Zeny >= 1200) {
 				Zeny -= 1200;
-				warp "lhz_airport",148,51;
+				warp warp "airplane",244,63;
 				end;
 			}
 			mes "[Airship Staff]";

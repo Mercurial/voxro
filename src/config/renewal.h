@@ -40,7 +40,7 @@
 /// example:
 ///  on a skill whos cast time is 10s, only 8s may be reduced. the other 2s are part of a
 ///  "fixed cast time" which can only be reduced by specialist items and skills
-#define RENEWAL_CAST
+//#define RENEWAL_CAST
 
 /// renewal drop rate algorithms
 /// (disable by commenting the line)
@@ -71,7 +71,7 @@
 ///  - it does NOT affect grimtooth
 ///  - weapon and status ATK are increased
 ///  - some skill's damage ratio has modified
-#define RENEWAL_EDP
+//#define RENEWAL_EDP
 
 /// renewal ASPD [malufett]
 ///

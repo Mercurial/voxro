@@ -256,7 +256,7 @@ OnInit:
 	.third_classes = 1;      // Enable third classes/Extended Classes? (1: yes / 0: no)
 	.supernovice_level = 45; // Minimum base level to turn into Super Novice
 	.linear_jobchange = 1;   // Enforce linear class changes? (1: yes / 0: no)
-	.skill_point_check = 1;  // Force player to use up all skill points? (1: yes / 0: no)
+	.skill_point_check = 0;  // Force player to use up all skill points? (1: yes / 0: no)
 	.platinum = 1;           // Get platinum skills automatically? (1: yes / 0: no)
 	end;
 }

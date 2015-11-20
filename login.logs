@@ -1,0 +1,1968 @@
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Hercules' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Hercules' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Hercules : 1
+[Info]: Setting accounts from char-server 1 offline.
+[Status]: Char-server 'Hercules' has disconnected.
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of bern_f (ip: 180.191.109.100).
+[Notice]: Account creation (account bern, id: 2000001, pass: bern23, sex: F)
+[Notice]: Authentication accepted (account: bern, id: 2000001, ip: 180.191.109.100)
+[Status]: Connection of the account 'bern' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Info]: Setting accounts from char-server 1 offline.
+[Status]: Char-server 'Vox Ragnarok Online' has disconnected.
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'test', pass: 'test', received pass: 'ttest', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of bern (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'bern', pass: 'bern23', received pass: 'bern123', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of bern (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'bern', pass: 'bern23', received pass: 'bern123', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of bern (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'bern', pass: 'bern23', received pass: 'bern1234', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of bern (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'bern', pass: 'bern23', received pass: 'bern3', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of bern (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: bern, id: 3000001, ip: 180.191.109.100)
+[Status]: Connection of the account 'bern' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial_m (ip: 180.191.109.100).
+[Notice]: Account creation (account Mercurial, id: 3000002, pass: eeya123, sex: M)
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093_m (ip: 180.191.109.100).
+[Notice]: Account creation (account warhammer0093, id: 3000003, pass: warhammer2505312312, sex: M)
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 180.191.109.100)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of warhammer0093 (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 180.191.109.100)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'test321', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of biancake1431_m (ip: 180.191.109.100).
+[Notice]: Account creation (account biancake1431, id: 3000004, pass: gwapoko123, sex: M)
+[Notice]: Authentication accepted (account: biancake1431, id: 3000004, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake1431' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'Dontscared1432', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'DOntscared1432', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'gwapoko', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'DOntscared1432', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'gwapoko', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'gwapoko', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake1431 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake1431', pass: 'gwapoko123', received pass: 'gwapoko', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Connection refused: IP isn't authorized (deny/allow, ip: 180.191.109.100).
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Connection refused: IP isn't authorized (deny/allow, ip: 180.191.109.100).
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Connection refused: IP isn't authorized (deny/allow, ip: 180.191.109.100).
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Connection refused: IP isn't authorized (deny/allow, ip: 180.191.109.100).
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Unknown account (account: biancake, received pass: gwapoko, ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake_m (ip: 180.191.109.100).
+[Notice]: Account creation (account biancake, id: 3000005, pass: gwapoko, sex: M)
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856_m (ip: 121.54.11.227).
+[Notice]: Account creation (account coldfusion856, id: 3000006, pass: cloverangel856, sex: M)
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of kokong_f (ip: 180.191.109.100).
+[Notice]: Account creation (account kokong, id: 3000007, pass: kokong, sex: F)
+[Notice]: Authentication accepted (account: kokong, id: 3000007, ip: 180.191.109.100)
+[Status]: Connection of the account 'kokong' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of kokong (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: kokong, id: 3000007, ip: 180.191.109.100)
+[Status]: Connection of the account 'kokong' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'biancake', pass: 'gwapoko', received pass: 'Dontscared1432', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'TESTCLARK', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'TESTCLARK', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'TESTCLARK', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'Mercurial', pass: 'eeya123', received pass: '336q', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of djblacklish_f (ip: 180.191.109.100).
+[Notice]: Account creation (account djblacklish, id: 3000008, pass: e23e6c039d88, sex: F)
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of miken0204_f (ip: 180.191.109.100).
+[Notice]: Account creation (account miken0204, id: 3000009, pass: 06012652, sex: F)
+[Notice]: Authentication accepted (account: miken0204, id: 3000009, ip: 180.191.109.100)
+[Status]: Connection of the account 'miken0204' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of miken0204 (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'miken0204', pass: '06012652', received pass: '060126+52', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of miken0204 (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: miken0204, id: 3000009, ip: 180.191.109.100)
+[Status]: Connection of the account 'miken0204' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Setting accounts from char-server 1 offline.
+[Status]: Char-server 'Vox Ragnarok Online' has disconnected.
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '847a0ef43121d6c7422197861f224e68421c1bae'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection refused: there is no char-server online (account: warhammer0093).
+[Info]: Closed connection from '121.54.11.227'.
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): '847a0ef43121d6c7422197861f224e68421c1bae'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of kokong (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: kokong, id: 3000007, ip: 180.191.109.100)
+[Status]: Connection of the account 'kokong' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'Mercurial', pass: 'eeya123', received pass: 'eeya1213', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'Mercurial', pass: 'eeya123', received pass: 'eey1213', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'Mercurial', pass: 'eeya123', received pass: 'eey123', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Invalid password (account: 'Mercurial', pass: 'eeya123', received pass: 'eeyaa123', ip: 180.191.109.100)
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of kokong (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: kokong, id: 3000007, ip: 180.191.109.100)
+[Status]: Connection of the account 'kokong' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 5
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'cloverangel', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of biancake (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: biancake, id: 3000005, ip: 180.191.109.100)
+[Status]: Connection of the account 'biancake' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of djblacklish (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: djblacklish, id: 3000008, ip: 180.191.109.100)
+[Status]: Connection of the account 'djblacklish' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.100)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of Mercurial (ip: 180.191.109.100).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.109.100)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.109.100'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Notice]: User 'warhammer0093' is already online - Rejected.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 124.6.169.47).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 124.6.169.47)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '124.6.169.47'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Notice]: Abnormal end of connection (ip: 203.67.9.75): Unknown packet 0x1
+[Info]: Closed connection from '203.67.9.75'.
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of Mercurial (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: Mercurial, id: 3000002, ip: 180.191.113.154)
+[Status]: Connection of the account 'Mercurial' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.113.154)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 180.191.104.144)
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.113.154)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of coldfusion856 (ip: 180.191.104.144).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.191.104.144)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.191.104.144'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of asderzx_m (ip: 180.191.113.154).
+[Notice]: Account creation (account asderzx, id: 3000010, pass: bloodyred12204173, sex: M)
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.113.154)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: Request for connection of asderzx (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.113.154)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 124.6.169.47).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 124.6.169.47)
+[Info]: Closed connection from '124.6.169.47'.
+[Status]: Request for connection of coldfusion856 (ip: 124.6.169.47).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 124.6.169.47)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '124.6.169.47'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.113.154)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of asderzx (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.113.154)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): 'e44e4a31d80b1147e233b809d88d5115f21a10ca'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of asderzx (ip: 180.191.113.154).
+[Notice]: Invalid password (account: 'asderzx', pass: 'bloodyred12204173', received pass: 'bloodyre12204173', ip: 180.191.113.154)
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: Request for connection of asderzx (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.113.154)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of miken0204 (ip: 180.191.113.154).
+[Notice]: Authentication accepted (account: miken0204, id: 3000009, ip: 180.191.113.154)
+[Status]: Connection of the account 'miken0204' accepted.
+[Info]: Closed connection from '180.191.113.154'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 124.6.169.47).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 124.6.169.47)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '124.6.169.47'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of asderzx (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.107.39)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of asderzx (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.107.39)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of asderzx (ip: 180.191.107.39).
+[Notice]: Invalid password (account: 'asderzx', pass: 'bloodyred12204173', received pass: 'bloodyreed12204173', ip: 180.191.107.39)
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: Request for connection of asderzx (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.107.39)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of asderzx (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.107.39)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Setting accounts from char-server 1 offline.
+[Status]: Char-server 'Vox Ragnarok Online' has disconnected.
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'test1234', ip: 180.191.107.39)
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'test1234', ip: 180.191.107.39)
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'test1234', ip: 180.191.107.39)
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Invalid password (account: 'test', pass: 'testclark', received pass: 'test1234', ip: 180.191.107.39)
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '8ee5eafc741d581579efd696765fb0646b72a553'
+[Info]: Git revision (scripts): 'e44e4a31d80b1147e233b809d88d5115f21a10ca'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.107.39).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.107.39)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.107.39'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): 'e44e4a31d80b1147e233b809d88d5115f21a10ca'
+[Info]: Git revision (scripts): 'e44e4a31d80b1147e233b809d88d5115f21a10ca'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Invalid password (account: 'asderzx', pass: 'bloodyred12204173', received pass: 'bloodyred666', ip: 180.191.105.131)
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of miken0204 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: miken0204, id: 3000009, ip: 180.191.105.131)
+[Status]: Connection of the account 'miken0204' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of azrael16661_m (ip: 180.191.105.131).
+[Notice]: Account creation (account azrael16661, id: 3000011, pass: mike06012652, sex: M)
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Notice]: User 'azrael16661' is already online - Rejected.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: Request for connection of asderzx (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: asderzx, id: 3000010, ip: 180.191.105.131)
+[Status]: Connection of the account 'asderzx' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of azrael16661 (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.105.131)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of test (ip: 180.191.105.131).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.105.131)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.105.131'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 3
+[Status]: set users Vox Ragnarok Online : 4
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of azrael16661 (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.109.25)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.25)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 121.54.11.227)
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: Request for connection of coldfusion856 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 121.54.11.227)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 2
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Notice]: Abnormal end of connection (ip: 203.67.9.74): Unknown packet 0x1
+[Info]: Closed connection from '203.67.9.74'.
+[Status]: Request for connection of warhammer0093 (ip: 121.54.11.227).
+[Notice]: Authentication accepted (account: warhammer0093, id: 3000003, ip: 121.54.11.227)
+[Status]: Connection of the account 'warhammer0093' accepted.
+[Info]: Closed connection from '121.54.11.227'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.25)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of azrael16661 (ip: 180.191.109.25).
+[Notice]: Invalid password (account: 'azrael16661', pass: 'mike06012652', received pass: '060612652', ip: 180.191.109.25)
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: Request for connection of azrael16661 (ip: 180.191.109.25).
+[Notice]: Invalid password (account: 'azrael16661', pass: 'mike06012652', received pass: '60612652mike', ip: 180.191.109.25)
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: Request for connection of azrael16661 (ip: 180.191.109.25).
+[Notice]: Invalid password (account: 'azrael16661', pass: 'mike06012652', received pass: '06012652mike', ip: 180.191.109.25)
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: Request for connection of azrael16661 (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: azrael16661, id: 3000011, ip: 180.191.109.25)
+[Status]: Connection of the account 'azrael16661' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Info]: Pinging SQL server to keep connection alive...
+[Status]: Request for connection of coldfusion856 (ip: 180.190.69.48).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.190.69.48)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.190.69.48'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 180.190.69.48).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.190.69.48)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.190.69.48'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 180.190.69.48).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.190.69.48)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.190.69.48'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of coldfusion856 (ip: 180.190.69.48).
+[Notice]: Invalid password (account: 'coldfusion856', pass: 'cloverangel856', received pass: 'clovernagel856', ip: 180.190.69.48)
+[Info]: Closed connection from '180.190.69.48'.
+[Status]: Request for connection of coldfusion856 (ip: 180.190.69.48).
+[Notice]: Authentication accepted (account: coldfusion856, id: 3000006, ip: 180.190.69.48)
+[Status]: Connection of the account 'coldfusion856' accepted.
+[Info]: Closed connection from '180.190.69.48'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Request for connection of test (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.25)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: set users Vox Ragnarok Online : 0
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '3cd65cad282753dfcea4bf03ac43664b1c3c2e00'
+[Info]: Git revision (scripts): '3cd65cad282753dfcea4bf03ac43664b1c3c2e00'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.25)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
+[Status]: Terminating...
+[Status]: Finished.
+[Info]: Memory manager: No memory leaks found.
+[Status]: Memory manager initialized: log/login-server.leaks
+
+                                                                      
+                 Hercules Development Team presents                   
+                _   _                     _                           
+               | | | |                   | |                          
+               | |_| | ___ _ __ ___ _   _| | ___  ___                 
+               |  _  |/ _ \ '__/ __| | | | |/ _ \/ __|                
+               | | | |  __/ | | (__| |_| | |  __/\__ \                
+               \_| |_/\___|_|  \___|\__,_|_|\___||___/                
+                                                                      
+                      http://herc.ws/board/                           
+                                                                      
+[Info]: Hercules 64-bit for Linux
+[Info]: Git revision (src): '3cd65cad282753dfcea4bf03ac43664b1c3c2e00'
+[Info]: Git revision (scripts): '3cd65cad282753dfcea4bf03ac43664b1c3c2e00'
+[Info]: OS version: 'Ubuntu 14.04.3 LTS [x86_64]'
+[Info]: CPU: 'Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz [1]'
+[Info]: Compiled with GCC v4.8.4
+[Info]: Compile Flags: -g -O2 -pipe -ffast-math -fvisibility=hidden -Wall -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-clobbered -Wempty-body -Wformat-security -Wno-format-nonliteral -Wno-switch -Wno-missing-field-initializers -Wshadow -fno-strict-aliasing -DHAVE_EXECINFO -DMAXCONN=16384 -I../common -DHAS_TLS -DHAVE_SETRLIMIT -DHAVE_STRNLEN -I/usr/include -DHAVE_MONOTONIC_CLOCK
+[Info]: Server supports up to '1024' concurrent connections.
+[Info]: Finished reading conf/import/inter_conf.txt.
+[Info]: Finished reading conf/inter-server.conf.
+[Info]: Finished reading conf/import/login_conf.txt.
+[Info]: Finished reading conf/login-server.conf.
+[Status]: Read information about 1 LAN subnets.
+[Status]: Read information about 1 trusted IP ranges.
+[Status]: Read information about 1 allowed server IP ranges.
+[Warning]: Using a wildcard IP range in the allowed server IPs is NOT RECOMMENDED.
+[Notice]: Please edit your 'conf/network.conf' allowed list to fit your network configuration.
+[Status]: The login-server is ready (Server is listening on the port 6900).
+
+[Info]: Connection request of the char-server 'Vox Ragnarok Online' @ 52.74.236.5:6121 (account: 's1', pass: 'p1', ip: '172.31.1.92')
+[Notice]: Authentication accepted (account: s1, id: 1, ip: 172.31.1.92)
+[Status]: Connection of the char-server 'Vox Ragnarok Online' accepted.
+[Status]: Request for connection of test (ip: 180.191.109.25).
+[Notice]: Authentication accepted (account: test, id: 2000000, ip: 180.191.109.25)
+[Status]: Connection of the account 'test' accepted.
+[Info]: Closed connection from '180.191.109.25'.
+[Status]: set users Vox Ragnarok Online : 1
